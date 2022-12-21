@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morse", "Morse\Morse.csproj", "{86236863-AD29-4BA9-BF62-9456438030F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseExample", "MorseExample\MorseExample.csproj", "{B29D9822-74EE-47E8-8F2E-FEACB5D54455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morse", "Morse\Morse.csproj", "{F9370CC5-E0C9-4E33-B6CA-7CCB1FB3AB01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86236863-AD29-4BA9-BF62-9456438030F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86236863-AD29-4BA9-BF62-9456438030F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86236863-AD29-4BA9-BF62-9456438030F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86236863-AD29-4BA9-BF62-9456438030F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29D9822-74EE-47E8-8F2E-FEACB5D54455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29D9822-74EE-47E8-8F2E-FEACB5D54455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29D9822-74EE-47E8-8F2E-FEACB5D54455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29D9822-74EE-47E8-8F2E-FEACB5D54455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9370CC5-E0C9-4E33-B6CA-7CCB1FB3AB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9370CC5-E0C9-4E33-B6CA-7CCB1FB3AB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9370CC5-E0C9-4E33-B6CA-7CCB1FB3AB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9370CC5-E0C9-4E33-B6CA-7CCB1FB3AB01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
